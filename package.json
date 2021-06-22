@@ -1,0 +1,19 @@
+{
+  "name": "rim",
+  "version": "1.0.0",
+  "description": "RIM 2021 Pageant Agenda ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realtalishaw/RIM.git"
+  },
+  "author": "Talisha White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realtalishaw/RIM/issues"
+  },
+  "homepage": "https://github.com/realtalishaw/RIM#readme"
+}
