@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/realtalishaw/RIM/issues"
   },
-  "homepage": "https://github.com/realtalishaw/RIM#readme"
+  "homepage": "https://github.com/realtalishaw/RIM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
 }
